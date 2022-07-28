@@ -1,0 +1,7 @@
+python=3.9
+jupyterlab
+matplotlib
+numpy
+pandas
+pandas-profiling
+ipywidgets

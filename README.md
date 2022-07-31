@@ -11,8 +11,8 @@
 https://cloud.google.com/natural-language/docs/setup
 
 ## Idea behind project
-Q1 - Q4 : Use EDA, statistical techniques for answers
-Q5 - Q6 : Use GCP NLP APIs to calculate sentiment score for each review text and do comparision against overall rating
+- Q1 - Q4 : Use EDA, statistical techniques for answers
+- Q5 - Q6 : Use GCP NLP APIs to calculate sentiment score for each review text and do comparision against overall rating
 
 ## Enahancements required
 - Text analysis needs to be done all whole data, given cost of analysis - needs to find better approach

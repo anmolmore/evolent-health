@@ -5,3 +5,7 @@ numpy
 pandas
 pandas-profiling
 ipywidgets
+scikit-learn
+wordcloud
+nltk
+google-cloud-language
